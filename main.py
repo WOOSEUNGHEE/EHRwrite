@@ -11,7 +11,7 @@ from PIL import ImageGrab #pip install pillow
 
 mode = "기록" #"정보", "기록", "소견서"
 
-idmx = ['02949463', '02949482', '02949692', '02949879']
+idmx = []
 
 
 def toexcel(idhos) :
